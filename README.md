@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geosegun&show_icons=true&locale=en" alt="geosegun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geosegun&" alt="geosegun" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
