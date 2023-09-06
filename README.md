@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm DUROJAYE OLUSEGUN</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+DUROJAYE+OLUSEGUN;"></a>
+</p>
 <h3 align="center">I am a Data/Software Engineer and Information security analyst | Technical Writer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/GeoSegun/GeoSegun/master/gif3.gif">
 
