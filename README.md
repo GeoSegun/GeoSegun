@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📝 I regularly write articles on [https://hackernoon.com/u/risingsegun](https://hackernoon.com/u/risingsegun)
+- 📝 I regularly write articles on [Baeldung](https://www.baeldung.com/author/olusegundurojaye)
 
 - 💬 Ask me about **Cloud, Information security and DevOps**
 
