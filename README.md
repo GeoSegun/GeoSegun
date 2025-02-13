@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geosegun&label=Profile%20views&color=0e75b6&style=flat" alt="geosegun" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently building **DevOps** Portfolio
 
 - 📝 I regularly write articles on [Baeldung](https://www.baeldung.com/author/olusegundurojaye)
 
