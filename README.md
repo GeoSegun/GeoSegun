@@ -4,8 +4,6 @@
   </a>
 </p>
 <h3 align="center">DevRel focused on DevOps and Cloud Technologies</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/GeoSegun/GeoSegun/master/gif3.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geosegun&label=Profile%20views&color=0e75b6&style=flat" alt="geosegun" /> </p>  
 
 # Hey, it's Segun 👋
