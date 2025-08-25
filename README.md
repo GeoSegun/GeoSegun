@@ -6,8 +6,6 @@
 <h3 align="center">DevRel focused on DevOps and Cloud Technologies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geosegun&label=Profile%20views&color=0e75b6&style=flat" alt="geosegun" /> </p>  
 
-# Hey, it's Segun 👋
-
 I'm a **Developer Relations Engineer at [CloudRay](https://cloudray.io)** — a centralized platform to manage servers, organize Bash scripts, and automate deployment tasks across virtual machines and cloud providers. I also work as a **Product Marketing Specialist**, helping developers discover, adopt, and succeed with modern DevOps and cloud tools.
 
 - 🔭 Currently contributing to **[OpenOps](https://openops.com)**, a no-code, open-source cloud automation project  
@@ -25,7 +23,6 @@ I'm a **Developer Relations Engineer at [CloudRay](https://cloudray.io)** — a 
 - 🎥 [YouTube](https://www.youtube.com/@rising_segun)  
 - 🐦 [Twitter/X](https://x.com/DurojayeOluseg5) 
 
-
 ## :fire: Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geosegun&show_icons=true&locale=en&theme=tokyonight" alt="geosegun" /></p>
@@ -33,5 +30,3 @@ I'm a **Developer Relations Engineer at [CloudRay](https://cloudray.io)** — a 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geosegun&&theme=tokyonight" alt="geosegun" /></p>
 
 <!-- Github Stats: END -->
-
-
